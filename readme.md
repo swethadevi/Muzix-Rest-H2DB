@@ -11,9 +11,9 @@
 Open the Postman and perform the various CRUD Operations in postman  and check the H2 Database to check if the data is stored Consistently
 
 
-###
 
-* Built Using
+
+###   * Built Using
               * [Java] - The Programming Language used
 	      * [Spring-Boot] - The web framework used
 	      * [H2DB] - The database framework used
