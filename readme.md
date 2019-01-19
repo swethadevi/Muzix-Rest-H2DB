@@ -1,8 +1,15 @@
-## Spring Boot  assignment REST Api using the Spring Boot,  H2DB and postman 
+## MUZIX
+
+### Spring Boot  REST Api using the Spring Boot,  H2DB and postman 
 
 ### Problem Statement
 
  To develop Muzix Application and perform the basic CRUD Operations and store in the H2 Database
+
+
+### Expected solution
+Open the Postman and perform the various CRUD Operations in postman  and check the H2 Database to check if the data is stored Consistently
+
 
 ###
 
@@ -12,11 +19,6 @@
 	      * [H2DB] - The database framework used
               * [Maven] - Dependency Management 
               * [Postman] - To test the Api
-
-
-
-### Expected solution
-Open the Postman and perform the various CRUD Operations in postman  and check the H2 Database to check if the data is stored Consistently
 
 
 ###  Muzix Application TASK
