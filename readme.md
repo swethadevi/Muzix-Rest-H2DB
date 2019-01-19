@@ -13,12 +13,12 @@ Open the Postman and perform the various CRUD Operations in postman  and check t
 
 
 
-###   * Built Using
-              * [Java] - The Programming Language used
-	      * [Spring-Boot] - The web framework used
-	      * [H2DB] - The database framework used
-              * [Maven] - Dependency Management 
-              * [Postman] - To test the Api
+###  * Built Using
+              *[Java] - The Programming Language used
+	      *[Spring-Boot] - The web framework used
+	      *[H2DB] - The database framework used
+              *[Maven] - Dependency Management 
+              *[Postman] - To test the Api
 
 
 ###  Muzix Application TASK
